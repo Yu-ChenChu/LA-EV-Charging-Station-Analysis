@@ -1,5 +1,5 @@
 # LA-EV-Charging-Station-Analysis
-Author: Yu-Chen Chu, Kongpob Lee
+Author: Yu-Chen Chu, Kongpob Leemingsawat
 
 DESCRIPTION:
 ------------------

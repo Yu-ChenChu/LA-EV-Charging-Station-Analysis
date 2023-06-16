@@ -1,4 +1,6 @@
 # LA-EV-Charging-Station-Analysis
+Author: Yu-Chen Chu, Kongpob Lee
+
 DESCRIPTION:
 ------------------
 This is a final project of Urban Data Science class (URBN PL 213) at the University of California Los Angeles.
